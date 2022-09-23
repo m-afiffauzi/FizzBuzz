@@ -1,10 +1,9 @@
-FizzBuzz
-Algorithm Mock Test Answer
+# FizzBuzz Algorithm Mock Test Answer
 
 Run test using JEST with one of the following command below:
 
-# npm run test
+npm run test
 
-# yarn test
+yarn test
 
-# pnpm test
+pnpm test
